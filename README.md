@@ -19,4 +19,13 @@ Sou desenvolvedor Full-Stack
 #### Habilidades:
 Html, Css, JavaScript, Node.js, React.js, Angular
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EvandroNeris)
+#### Estou estudando sobre:
+Arquitetura de Software, DevOps
+
+#### Faça parte da minha rede:
+<a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a>
+
+#### Infos:
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=EvandroNeris)
