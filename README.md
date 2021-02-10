@@ -23,7 +23,7 @@ Html, Css, JavaScript, Node.js, React.js, Angular
 Arquitetura de Software, DevOps
 
 #### Faça parte da minha rede: :heart:
-<a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/evandroneris95/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>
 
