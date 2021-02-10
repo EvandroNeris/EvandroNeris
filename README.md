@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Olá, meu nome é Evandro! :v:
+Sou desenvolvedor Full-Stack 
 
-Olá, meu nome é Evandro, sou desenvolvedor Full-Stack.
+#### Habilidades:
+Html, Css, JavaScript, Node.js, React.js, Angular
 
-Habilidades: HTML, CSS, JavaScript, Node.js, React.js, Angular
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=EvandroNeris)
