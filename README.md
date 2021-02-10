@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 ### Olá, meu nome é Evandro! :v:
 Sou desenvolvedor Full-Stack 
 
-#### Habilidades:
+#### Habilidades: :muscle:
 Html, Css, JavaScript, Node.js, React.js, Angular
 
-#### Estou estudando sobre:
+#### Estou estudando sobre: :paperclip:
 Arquitetura de Software, DevOps
 
-#### Faça parte da minha rede:
+#### Faça parte da minha rede: :heart:
 <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>
 
-#### Infos:
+#### Infos: :bookmark_tabs:
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=EvandroNeris)
