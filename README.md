@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 Sou desenvolvedor Full-Stack 
 
 #### Habilidades: :muscle:
-Html, Css, JavaScript, Node.js, React.js, React Native, Adonis.js, Angular
-PostgreSQL, MySQL, MongoDB
-Clean Architecture
+Html, Css, JavaScript, Node.js, React.js, React Native, Adonis.js, Angular, PostgreSQL, MySQL, MongoDB, Clean Architecture
 
 #### Estou estudando sobre: :paperclip:
 Arquitetura de Software, DevOps
