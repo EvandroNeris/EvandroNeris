@@ -17,10 +17,20 @@ Here are some ideas to get you started:
 Sou desenvolvedor Full-Stack 
 
 #### Habilidades: :muscle:
-Html, Css, JavaScript, Node.js, React.js, React Native, Adonis.js, Angular, PostgreSQL, MySQL, MongoDB, Clean Architecture
+JavaScript, 
+Node.js, 
+React.js, 
+React Native, 
+Adonis.js, 
+Angular, 
+PostgreSQL, 
+MySQL, 
+MongoDB, 
+Clean Architecture,
+Docker
 
 #### Estou estudando sobre: :paperclip:
-Arquitetura de Software, DevOps
+DevOps
 
 #### Faça parte da minha rede: :heart:
 <a href="https://www.linkedin.com/in/evandroneris95/" rel="nofollow noreferrer">
