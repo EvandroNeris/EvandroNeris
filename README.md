@@ -48,8 +48,8 @@ Atuo como **Tech Lead** com foco em soluções escaláveis e arquitetura limpa. 
 <a href="https://www.linkedin.com/in/evandroneris95/" target="_blank">
   <img src="https://img.shields.io/badge/-Evandro%20Neris-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:evandro.neris95@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-evandro.neris95@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:evandroneris95@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-evandroneris95@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
